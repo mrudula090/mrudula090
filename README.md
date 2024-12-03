@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrudula</h1>
 <h3 align="center">Data-Science | Artificial-Intelligence-and-Machine-Learning</h3>
 
-- 💼 I work as a Cloud Technology Consultant
+- 👩🏻‍💻 I work as a Cloud Technology Consultant
 
 - 🎓 I hold a bachelor's degree in Computer Science and a postgraduate certification in Artificial Intelligence and Machine Learning
 
