@@ -3,7 +3,8 @@
 
 - 👩🏻‍💻 I work as a Cloud Technology Consultant
 
-- 🎓 I hold a bachelor's degree in Computer Science and a postgraduate certification in Artificial Intelligence and Machine Learning
+- 🎓 I hold a bachelor's degree in Computer Science
+      and a postgraduate certification in Artificial Intelligence and Machine Learning
 
 - 🌱 I’m currently learning End-to-End AIML Projects
 
